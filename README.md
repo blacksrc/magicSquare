@@ -17,7 +17,8 @@ Output will be:<br>
 
 Also you can just create the output as an array without creating the image.
 ```php
-magicSquare(11, false);
+$array = magicSquare(11, false);
+print_r($array);
 ```
 You can change some options too.
 ```php
