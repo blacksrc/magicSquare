@@ -4,11 +4,11 @@ magicSquare
 Simple PHP function to generate odd dimentional magic square within GD library.
 
 ### How To Do:
-FirstDownload `magicSquare.php` and `tahmoa.ttf` files. Then include the magicSquare.php to the page.
+First download `magicSquare.php` and `tahmoa.ttf` files and include the magicSquare.php to the page.
 ```php
   include './magicSquare.php';
 ```
-Then use it like this (the number must be odd):
+Then use it like this (the number must be an odd):
 ```php
   magicSquare(11);
 ```
