@@ -1,7 +1,7 @@
 magicSquare
 ===========
 
-Simple PHP function to generate odd dimentional magic square within GD library.
+Simple PHP function to generate odd dimentional magic square within GD.
 
 ### How To Do:
 First download `magicSquare.php` and `tahmoa.ttf` files and include the magicSquare.php to the page.
