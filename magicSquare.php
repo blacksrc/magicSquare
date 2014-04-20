@@ -118,5 +118,6 @@ function magicSquare($dimension, $imgOutput = true, $options = null) {
 	} else {
 		return 'The algorithm is not ready for even numbers yet!';
 	}
-?>
 }
+?>
+
