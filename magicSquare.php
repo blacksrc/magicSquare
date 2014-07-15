@@ -1,4 +1,10 @@
 <?php 
+/*
+## PHP Magic Square (2014)
+## Author:  Siamak Aghaeipour
+## Email:   siamak.aghaeipour@gmail.com
+## Website: http://blacksrc.com
+*/
 function magicSquare($dimension, $imgOutput = true, $options = null) {
 	if($dimension%2!=0) {
 		$first = ($dimension-1)/2;
