@@ -1,7 +1,7 @@
 <?php 
 /*
 ## PHP Magic Square (2014)
-## Author:  Siamak Aghaeipour
+## Author:  Siamak Aghaeipour Motlagh
 ## Email:   siamak.aghaeipour@gmail.com
 ## Website: http://blacksrc.com
 */
